@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Ekaterinburg is capital of Ural
+Tokyo is captil of Japan
